@@ -1,4 +1,4 @@
-# Breast-Cancer-Classification-with-VGG-16-SVM
+# Breast-Cancer-Classification-with-VGG-16-and-SVM
 
 This was the Project Implementation of my _**MSc. Biomedical Informatics**_ [Graduation Thesis](https://www.researchgate.net/publication/361441022_Medical_Images_Classification_Based_on_Deep_Features_Extraction_Exploiting_Transfer_Learning) from [University of Tlemcen](https://ft.univ-tlemcen.dz) (Algeria :algeria:)
 
