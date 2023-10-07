@@ -1,19 +1,3 @@
-
-<p align="center">
-  <a href="https://github.com/iaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM/issues">
-    <img src="https://img.shields.io/github/issues/iaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM"/>
-  </a>
-  <a href="https://github.com/iaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM/network/members">
-    <img src="https://img.shields.io/github/forks/iaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM"/>
-  </a>
-  <a href="https://github.com/iaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM/stargazers">
-    <img src="https://img.shields.io/github/stars/iaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM"/>
-  </a>
-    <a href="https://github.com/iaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM/LICENSE">
-    <img src="https://img.shields.io/github/license/iaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM"/>
-  </a>
-</p>
-
 # Breast cancer classification with VGG-16 and SVM
 
 This was the Project Implementation of my _**MSc. Biomedical Informatics**_ [Graduation Thesis](https://www.researchgate.net/publication/361441022_Medical_Images_Classification_Based_on_Deep_Features_Extraction_Exploiting_Transfer_Learning) from [University of Tlemcen](https://ft.univ-tlemcen.dz) (Algeria :algeria:)
