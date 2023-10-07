@@ -1,4 +1,20 @@
-# Breast-Cancer-Classification-with-VGG-16-and-SVM
+
+<p align="center">
+  <a href="https://github.com/iaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM/issues">
+    <img src="https://img.shields.io/github/issues/iaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM"/>
+  </a>
+  <a href="https://github.com/iaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM/network/members">
+    <img src="https://img.shields.io/github/forks/iaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM"/>
+  </a>
+  <a href="https://github.com/iaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM/stargazers">
+    <img src="https://img.shields.io/github/stars/iaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM"/>
+  </a>
+    <a href="https://github.com/iaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM/LICENSE">
+    <img src="https://img.shields.io/github/license/iaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM"/>
+  </a>
+</p>
+
+# Breast cancer classification with VGG-16 and SVM
 
 This was the Project Implementation of my _**MSc. Biomedical Informatics**_ [Graduation Thesis](https://www.researchgate.net/publication/361441022_Medical_Images_Classification_Based_on_Deep_Features_Extraction_Exploiting_Transfer_Learning) from [University of Tlemcen](https://ft.univ-tlemcen.dz) (Algeria :algeria:)
 
@@ -10,6 +26,10 @@ Mr. Li Shen's model had performed great with **AUC=0.95** (check his [Repo](http
 
 I managed to get **AUC=0.98** with SVM and even better with MLP and Random Forests:
 
-![AUC-results](assets/images/AUC-results.PNG)
+<p align="center">
+  <img src="assets/images/AUC-results.PNG" />
+</p>
+
+---
 
 :rotating_light: For any bugs or questions, feel free to report an [issue](https://github.com/iamaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM/issues) :triangular_flag_on_post:
